@@ -1,0 +1,148 @@
+html{
+    height:100%;
+  }
+
+body{
+    background-color: rgb(30, 30, 33);
+    height:100%;
+    margin: 0px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.head{
+   text-align: center; 
+   margin-inline: 35rem;
+   border-radius: 50px;
+}
+
+.head:hover{
+    background-color: rosybrown;
+    transition: 0.5s;
+    color: white;
+}
+
+.content1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+ul {
+    list-style: none;
+}
+
+.size{
+    width: 150px;
+    height: 150px;
+}
+.item1{
+    background-color: azure;
+    margin: 10px;
+    border: solid;
+    border-radius: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item2{
+    background-color: azure;
+    margin: 10px;
+    border: solid;
+    border-radius: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item3{
+    background-color: azure;
+    margin: 10px;
+    border: solid;
+    border-radius: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item4{
+    background-color: azure;
+    margin: 10px;
+    border: solid;
+    border-radius: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item5{
+    background-color: azure;
+    margin: 10px;
+    border: solid;
+    border-radius: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item6{
+    background-color: azure;
+    margin: 10px;
+    border: solid;
+    border-radius: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item7{
+    background-color: azure;
+    margin: 10px;
+    border: solid;
+    border-radius: 10px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item1:hover{
+    background-color: rgb(216, 91, 91);
+    transition: 0.5s;
+    color: white;
+}
+
+.item2:hover{
+    background-color: rgb(216, 91, 91);
+    transition: 0.5s;
+    color: white;
+}
+
+.item3:hover{
+    background-color: rgb(216, 91, 91);
+    transition: 0.5s;
+    color: white;
+}
+
+.item4:hover{
+    background-color: rgb(216, 91, 91);
+    transition: 0.5s;
+    color: white;
+}
+
+.item5:hover{
+    background-color: rgb(216, 91, 91);
+    transition: 0.5s;
+    color: white;
+}
+
+.item6:hover{
+    background-color: rgb(216, 91, 91);
+    transition: 0.5s;
+    color: white;
+}
+
+.item7:hover{
+    background-color: rgb(216, 91, 91);
+    transition: 0.5s;
+    color: white;
+}
